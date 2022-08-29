@@ -347,4 +347,4 @@ You can find the latest stable Teleport build on our [Releases](https://gotelepo
 
 Teleport was created by [Gravitational Inc](https://goteleport.com). We have
 built Teleport by borrowing from our previous experiences at Rackspace. [Learn more
-about Teleport and our history](https://goteleport.com/about/).
+about Teleport and our history](https://goteleport.com/about/)
